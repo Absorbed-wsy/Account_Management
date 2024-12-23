@@ -1,0 +1,22 @@
+Flask
+requests
+tkinter
+PyQt5
+
+AccountManagementTool/
+│
+├── client/
+│   ├── main.py         
+│   ├── ui.py           
+│   └── api.py          
+│
+├── server/
+│   ├── main.py         
+│   ├── db.py           
+│   └── api.py          
+│
+├── database/
+│   └── schema.sql      
+│
+└── requirements.txt    
+
